@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Welcome to my GitHub profile👋
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Matrixchung&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/Matrixchung)
 <!--
 **Matrixchung/Matrixchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
