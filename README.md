@@ -1,5 +1,12 @@
 ### 🦸 About me
-A none-stack developer but always willing to learn new technologies.
+ - A none-stack developer but always willing to learn new technologies.
+ - Focusing on *College Entrance Examination*, a.k.a. Gaokao :)
+
+### 🔋 Languages
+✅ Python (a bit)  
+⏯ C  
+⏯ Java  
+⏯ Lua  
 
 ### 📈 Statistics
 <table>
