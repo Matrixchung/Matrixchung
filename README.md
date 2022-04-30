@@ -4,7 +4,7 @@
 
 ### 🔋 Languages
 ✅ Python (a bit)  
-⏯ C / C++
+⏯ C / C++  
 ⏯ Java  
 ⏯ Lua  
 
