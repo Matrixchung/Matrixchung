@@ -1,7 +1,7 @@
 ### 🦸 About me
  - A none-stack developer but always willing to learn new technologies.
- - Survived from the battle of Gaokao!
- - Say hello to my college life~
+ - Currently majoring in engineering at UESTC.
+ - I'm interested in Embedded Platform Development and so on.
 
 ### 🔋 Languages
 ✅ Python (a bit)  
