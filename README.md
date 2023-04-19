@@ -1,6 +1,6 @@
 ### 🦸 About me
  - A none-stack developer but always willing to learn new technologies.
- - Currently majoring in engineering at UESTC.
+ - Currently majoring in engineering at SMEE of UESTC.
  - I'm interested in Embedded Platform Development and so on.
 
 ### 🔋 Languages
@@ -9,6 +9,10 @@
 ⏯ C#   
 ⏯ Java  
 ⏯ Lua  
+
+### 📄 Notes
+ - If you have any problem about my work, feel free to submit issues on my repo directly or send email to me. 
+ - Other ways to contact me may result in slow response.
 
 ### 📈 Statistics
 <table>
