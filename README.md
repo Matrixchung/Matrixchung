@@ -1,6 +1,6 @@
 ### 🦸 About me
  - A none-stack developer but always willing to learn new technologies.
- - Currently majoring in engineering at SMEE of UESTC.
+ - Currently majoring in mechanics engineering at SMEE of UESTC.
  - I'm interested in Embedded Platform Development and so on.
 
 ### 🔋 Languages
