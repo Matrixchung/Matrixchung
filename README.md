@@ -3,6 +3,7 @@
  - Currently majoring in mechanics engineering at SMEE of UESTC.
  - I'm interested in Embedded Platform Development and so on.
  - Doing some researches on Sensorless FOC Drive.
+ - **I love the beauty of control systems.**
 
 ### 🔋 Languages
 ✅ Python (a bit)  
