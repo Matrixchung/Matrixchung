@@ -5,13 +5,6 @@
  - Doing some researches on Sensorless FOC Drive.
  - **I love the beauty of control systems.**
 
-### 🔋 Languages
-✅ Python (a bit)  
-⏯ C / C++  
-⏯ C#   
-⏯ Java  
-⏯ Lua  
-
 ### 📄 Notes
  - If you have any problem about my work, feel free to submit issues on my repo directly or send email to me. 
  - Other ways to contact me may result in slow response.
