@@ -1,8 +1,8 @@
 ### 🦸 About me
  - A none-stack developer but always willing to learn new technologies.
- - Currently majoring in mechanics engineering at SMEE of UESTC.
+ - Currently majoring in mechanical engineering at SMEE of UESTC.
  - I'm interested in Embedded Platform Development and so on.
- - Doing some researches on Sensorless FOC Drive.
+ - Doing some researches on Sensored/sensorless FOC Drive.
  - **I love the beauty of control systems.**
 
 ### 📄 Notes
